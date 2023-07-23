@@ -12,7 +12,7 @@ There is a repository available at  [GitHub](https://github.com/GwerhDev/DevDail
 Available languages:
 
 |   Language    | Code |
-| ------------- | ---- |
+
 | English       | "en" |
 | Spanish       | "es" |
 
