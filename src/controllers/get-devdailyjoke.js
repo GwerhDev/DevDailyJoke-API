@@ -10,7 +10,7 @@ router.get('/:lang', async (req, res) => {
   const jokeIndex = day % jokes.length;
   const joke = jokes[jokeIndex][lang];
 
-  res.json(joke);
+  res.send(joke);
 });
 
 module.exports = router;
