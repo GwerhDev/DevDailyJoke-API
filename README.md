@@ -23,6 +23,6 @@ You request:
   https://devdailyjoke-api.fly.dev/es
 ```
 
-you get:
+You get the string:
 > Software, churches and cathedrals are much the same: first we build them, then we pray.
 
