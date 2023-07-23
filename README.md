@@ -20,7 +20,7 @@ Available languages:
 
 You request:
 ```bash
-  https://devdailyjoke-api.fly.dev/es
+  /GET https://devdailyjoke-api.fly.dev/es
 ```
 
 You get the string:
