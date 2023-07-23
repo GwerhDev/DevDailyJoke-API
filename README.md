@@ -24,6 +24,6 @@ Available languages:
 
 you get
 
-```bash
-Software, churches and cathedrals are much the same: first we build them, then we pray.
-```
+
+> Software, churches and cathedrals are much the same: first we build them, then we pray.
+
