@@ -19,7 +19,9 @@ Available languages:
 ## Example
 
 You request:
-
+```bash
+  /GET https://devdailyjoke-api.fly.dev/es
+```
 
 You get the string:
 > Software, churches and cathedrals are much the same: first we build them, then we pray.
