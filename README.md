@@ -7,7 +7,7 @@ Get a daily dev joke to your projects!
 
 There is a repository available at  [GitHub](https://github.com/GwerhDev/DevDailyJoke-API).
 
-## /GET :lang
+## /GET https://devdailyjoke-api.fly.dev/:lang
 
 Available languages:
 
