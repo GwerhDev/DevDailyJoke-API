@@ -18,12 +18,11 @@ Available languages:
 
 ## Example
 
+You request:
 ```bash
   https://devdailyjoke-api.fly.dev/es
 ```
 
-you get
-
-
+you get:
 > Software, churches and cathedrals are much the same: first we build them, then we pray.
 
