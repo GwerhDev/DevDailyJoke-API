@@ -5,7 +5,7 @@ Get a daily dev joke to your projects!
 
 ## Resources
 
-There is a repository available at  [git](https://github.com/GwerhDev/DevDailyJoke-API).
+There is a repository available at  [GitHub](https://github.com/GwerhDev/DevDailyJoke-API).
 
 ## /GET :lang
 
